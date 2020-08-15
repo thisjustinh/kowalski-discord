@@ -4,7 +4,7 @@ import yfinance as yf
 import io
 import aiohttp
 
-TOKEN = "NzQzOTkxMTgzMzgyMTUxMjQ4.XzctyA.sjRzYjtJRZJPCwuk4t8SD5X9vIo"
+TOKEN = "NzQzOTkxMTgzMzgyMTUxMjQ4.XzctyA.-viZ2iJPZ2S5S1VM2tD4gfHXPuc"
 
 bot = commands.Bot(command_prefix='$', description="Stock market analysis Discord bot")
 
