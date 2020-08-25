@@ -6,7 +6,7 @@ import io
 import aiohttp
 
 
-TOKEN = "NzQzOTkxMTgzMzgyMTUxMjQ4.XzctyA.-viZ2iJPZ2S5S1VM2tD4gfHXPuc"
+TOKEN = "TOKEN_GOES_HERE"
 bot = commands.Bot(command_prefix='$', description="Stock market analysis Discord bot")
 
 
